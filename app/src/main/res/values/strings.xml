@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Accident Alert System</string>
+
+    <string name="title_activity_status_screen">Accident Alert System</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_locator_screen">Map</string>
+</resources>
